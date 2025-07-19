@@ -48,11 +48,11 @@ Demo live at: [promraw-app.vercel.app](https://promraw-app.vercel.app)
 
 | ![Dog on Bike](public/dog.png) | ![Alien on Giraffe](public/giraffe.png) |
 |:------------------------------:|:-------------------------------:|
-| Mac in Space                   | Cat in Space                    |
+| Dog on Bike                  | Alien on Giraffe                   |
 
 | ![City In Bottle](public/city.png) | ![Hooded Raccoon](public/raccoon.png) |
 |:-------------------------------:|:--------------------------------:|
-| Google in Space                 | Raccoon in Space                 |
+| City in Bottle                 | Hooded Raccoon                 |
 
 ---
 
