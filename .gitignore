@@ -1,0 +1,47 @@
+# Node modules and build output
+node_modules/
+.next/
+out/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Env and secrets
+.env
+.env.local
+.env.*.local
+
+# Editor/IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Windsurf and local config
+.windsurf/
+
+# Misc
+*.log
+*.tgz
+*.zip
+*.bak
+*.tmp
+
+# Ignore test coverage
+coverage/
+
+# Ignore build artifacts
+*.tsbuildinfo
+
+# Ignore user uploads (if any)
+uploads/
+
+# Ignore system files
+*.orig
