@@ -46,11 +46,11 @@ Demo live at: [promraw-app.vercel.app](https://promraw-app.vercel.app)
 
 ## 🎨 Example Drawings
 
-| ![Mac in Space](public/dog.png) | ![Cat in Space](public/giraffe.png) |
+| ![Dog on Bike](public/dog.png) | ![Alien on Giraffe](public/giraffe.png) |
 |:------------------------------:|:-------------------------------:|
 | Mac in Space                   | Cat in Space                    |
 
-| ![Google in Space](public/city.png) | ![Raccoon in Space](public/raccoon.png) |
+| ![City In Bottle](public/city.png) | ![Hooded Raccoon](public/raccoon.png) |
 |:-------------------------------:|:--------------------------------:|
 | Google in Space                 | Raccoon in Space                 |
 
