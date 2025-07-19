@@ -1,4 +1,4 @@
-# Promraw
+![image](https://github.com/user-attachments/assets/02f9a18c-fc29-4ccb-b81f-845531c6db2b)
 
 Promraw is a decentralized, AI-powered creative platform where users submit daily sketches based on quirky, AI-generated prompts. Submissions are scored by our custom AI (“Paint,” a VLM trained on image-text pairs via CLIP/Gemini), and top artworks can be “coined” on Zora’s Platform. A leaderboard ranks artists by AI score, unlocking rewards and extra platform features.
 
